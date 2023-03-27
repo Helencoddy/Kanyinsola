@@ -1,4 +1,4 @@
-Monolithic architecture is a software architecture where all the components of an application are combined into a single program or executable. In this architecture, the application is typically built as a single unit with a single codebase, and all the components are tightly coupled to each other.
+1.  Monolithic architecture is a software architecture where all the components of an application are combined into a single program or executable. In this   architecture, the application is typically built as a single unit with a single codebase, and all the components are tightly coupled to each other.
 
 Microservices is an architectural approach to building software applications as a collection of small, independent services, each focused on performing a single business function. In a microservice architecture, each service runs in its own process and communicates with other services through lightweight mechanisms, such as HTTP/REST or messaging protocols.
 
